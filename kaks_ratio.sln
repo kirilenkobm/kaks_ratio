@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kaks_ratio", "kaks_ratio\kaks_ratio.csproj", "{91036E7C-6660-45FF-905E-ADC10D48CE1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91036E7C-6660-45FF-905E-ADC10D48CE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91036E7C-6660-45FF-905E-ADC10D48CE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91036E7C-6660-45FF-905E-ADC10D48CE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91036E7C-6660-45FF-905E-ADC10D48CE1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
